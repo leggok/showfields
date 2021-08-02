@@ -353,7 +353,7 @@ header .container {
 .right {
   text-align: center;
   color: #000;
-  padding-top: 142px;
+  padding-top: 18px;
   margin-left: -20px;
 }
 .right .title, .right .sub_title {
@@ -766,6 +766,12 @@ form {
 @media screen and (max-width: 500px) {
   .title {
     font-size: 52px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .peoples_list {
+    display: block;
+    padding: revert;
   }
 }
 @media screen and (max-width: 440px) {
