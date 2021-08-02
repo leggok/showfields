@@ -1,0 +1,10 @@
+@font-face {
+  font-family: TradeGothicExt;
+  src: url("../fonts/TradeGothicLT-Extended.woff2") format("woff2");
+  src: url("../fonts/TradeGothicLT-Extended.woff") format("woff");
+}
+@font-face {
+  font-family: TradeGothicBold;
+  src: url("../fonts/TradeGothicLT-BoldExtended.woff2") format("woff2");
+  src: url("../fonts/TradeGothicLT-BoldExtended.woff") format("woff");
+}
